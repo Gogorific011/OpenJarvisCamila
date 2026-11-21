@@ -1,0 +1,12 @@
+fastapi==0.115.12
+httpx==0.28.1
+openjarvis[inference-litellm]==1.0.4
+pydantic==2.11.5
+pydantic-settings==2.14.1
+python-dotenv==1.1.0
+uvicorn[standard]==0.34.2
+pytest==8.3.5
+pytest-asyncio==0.26.0
+litellm==1.100.1
+ruff==0.17.6
+black==26.10.1
